@@ -105,7 +105,10 @@ PC用のスタイル
     display: block;
   } 
   #nav-sp a:link {
-  color: #ffffff;
+    color: #ffffff;
+  }
+  #nav-sp a:visited {
+    color:#ffffff
   }
   #nav-sp a:hover {
     color: #ffffff;
